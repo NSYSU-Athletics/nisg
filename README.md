@@ -1,2 +1,4 @@
-# NSYSU Interdepartmental Sports Games
-Official website of NSYSU Interdepartmental Sports Games
+# NSYSU Sports Games Series
+
+NSYSU Freshman Cup Championships, NFCC
+NSYSU Interdeparmental Sports Games, NISG
