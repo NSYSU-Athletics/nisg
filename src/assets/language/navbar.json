@@ -1,0 +1,86 @@
+{
+    "home": {
+        "en_us": "Home",
+        "zh_tw": "首頁"
+    },
+    "event_list": {
+        "en_us": "Events",
+        "zh_tw": "賽事列表",
+        "sublink": {
+            "nfcc": {
+                "en_us": "NSYSU Freshman Cup Championships",
+                "zh_tw": "新生盃錦標賽"
+            },
+            "nisg": {
+                "en_us": "NSYSU Interdepartmental Sports Games",
+                "zh_tw": "系際運動大會"
+            },
+            "nao": {
+                "en_us": "NSYSU Athletics Open",
+                "zh_tw": "中山田徑公開賽"
+            }
+        }
+    },
+    "news": {
+        "en_us": "News",
+        "zh_tw": "最新消息"
+    },
+    "registration": {
+        "en_us": "Registration",
+        "zh_tw": "報名系統"
+    },
+    "school_team": {
+        "en_us": "School Team",
+        "zh_tw": "校隊簡介",
+        "sublink": {
+            "ball_games": {
+                "en_us": "Ball Games",
+                "zh_tw": "球類運動"
+            },
+            "others": {
+                "en_us": "Others",
+                "zh_tw": "其他運動",
+                "sublink": {
+                    "athletics": {
+                        "en_us": "Athletics",
+                        "zh_tw": "田徑隊"
+                    },
+                    "swimming": {
+                        "en_us": "Swimming",
+                        "zh_tw": "游泳隊"
+                    },
+                    "archery": {
+                        "en_us": "Archery",
+                        "zh_tw": "射箭隊"
+                    },
+                    "frisbee": {
+                        "en_us": "Frisbee",
+                        "zh_tw": "飛盤隊"
+                    },
+                    "sailing": {
+                        "en_us": "Sailing",
+                        "zh_tw": "風帆隊"
+                    }
+                }
+            }
+        }
+    },
+    "links": {
+        "en_us": "Links",
+        "zh_tw": "其他頁面",
+        "sublink": {
+            "about": {
+                "en_us": "About NSGEC",
+                "zh_tw": "關於執委會"
+            },
+            "epidemic": {
+                "en_us": "Epidemic Prevention",
+                "zh_tw": "防疫專區"
+            },
+            "nsysu": {
+                "en_us": "NSYSU Homepage",
+                "zh_tw": "中山首頁"
+            }
+        }
+    }
+}
