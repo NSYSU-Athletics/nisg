@@ -26,9 +26,12 @@
                             <div>女子籃球隊</div>
                             <div>男子排球隊</div>
                             <div>女子排球隊</div>
-                            <div>羽球隊</div>
-                            <div>桌球隊</div>
-                            <div>網球隊</div>
+                            <div>男子羽球隊</div>
+                            <div>女子羽球隊</div>
+                            <div>男子桌球隊</div>
+                            <div>女子桌球隊</div>
+                            <div>男子網球隊</div>
+                            <div>女子網球隊</div>
                             <div>棒球隊</div>
                             <div>足球隊</div>
                         </div>
