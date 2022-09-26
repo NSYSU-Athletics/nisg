@@ -35,9 +35,9 @@ const routes: Array<RouteRecordRaw> = [
         ],
     },
     {
-        path: '/about',
-        name: 'about',
-        component: () => import('../views/AboutView.vue'),
+        path: '/ufag',
+        name: 'ufag',
+        component: () => import('../views/UFAG.vue'),
     },
 ];
 
