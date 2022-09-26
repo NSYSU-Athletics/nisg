@@ -5,7 +5,7 @@
     },
     "event_list": {
         "en_us": "Events",
-        "zh_tw": "賽事列表",
+        "zh_tw": "賽事資訊",
         "sublink": {
             "nfcc": {
                 "en_us": "NSYSU Freshman Cup Championships",
@@ -18,6 +18,11 @@
             "nao": {
                 "en_us": "NSYSU Athletics Open",
                 "zh_tw": "中山田徑公開賽"
+            }
+            ,
+            "others": {
+                "en_us": "Others",
+                "zh_tw": "其他賽事"
             }
         }
     },
@@ -45,8 +50,12 @@
                         "en_us": "Athletics",
                         "zh_tw": "田徑隊"
                     },
-                    "swimming": {
-                        "en_us": "Swimming",
+                    "swimming_men": {
+                        "en_us": "Swimming (Men)",
+                        "zh_tw": "游泳隊"
+                    },
+                    "swimming_women": {
+                        "en_us": "Swimming (Women)",
                         "zh_tw": "游泳隊"
                     },
                     "archery": {
@@ -76,6 +85,10 @@
             "epidemic": {
                 "en_us": "Epidemic Prevention",
                 "zh_tw": "防疫專區"
+            },
+            "media": {
+                "en_us": "Photos & Videos",
+                "zh_tw": "影音資訊"
             },
             "nsysu": {
                 "en_us": "NSYSU Homepage",
