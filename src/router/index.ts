@@ -35,9 +35,21 @@ const routes: Array<RouteRecordRaw> = [
         ],
     },
     {
-        path: '/ufag',
+        path: '/2022ufag',
         name: 'ufag',
-        component: () => import('../views/UFAG.vue'),
+        component: () => import('../views/UFAGView.vue'),
+        children: [
+            {
+                path: '/2022ufag',
+                name: 'ufagHome',
+                component: () => import('../components/ufag/HomePage.vue'),
+            },
+            {
+                path: 'regulation',
+                name: 'ufagRegulation',
+                component: () => import('../components/ufag/RegulationPage.vue'),
+            },
+        ],
     },
 ];
 
