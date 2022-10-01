@@ -49,6 +49,11 @@ const routes: Array<RouteRecordRaw> = [
                 name: 'ufagRegulation',
                 component: () => import('../components/ufag/RegulationPage.vue'),
             },
+            {
+                path: 'about',
+                name: 'ufagAbout',
+                component: () => import('../components/ufag/AboutPage.vue'),
+            },
         ],
     },
 ];

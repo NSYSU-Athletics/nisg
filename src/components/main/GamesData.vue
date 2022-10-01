@@ -66,7 +66,7 @@
                 <span v-if="language=='zh_tw'">賽事內容：</span>
                 <span v-if="language=='en_us'">Content：</span>
             </div>
-            <p v-if="data.info">{{data.info}}</p>
+            <div v-if="data.info" style="white-space: pre-line;">{{data.info}}</div>
             <span v-else>
                 <span v-if="language=='zh_tw'">無資訊</span>
                 <span v-if="language=='en_us'">No content</span>
@@ -120,7 +120,7 @@ export default defineComponent({
     @apply bg-orange-400 text-white px-2 py-0.5 rounded;
 }
 .content {
-    @apply py-4 text-left text-lg;
+    @apply py-4 text-left text-lg w-full break-words;
     div {
         @apply my-2;
     }

@@ -23,6 +23,7 @@
             <div class="md:flex bg-white shadow absolute md:bg-opacity-80 top-20 sm:top-28 md:top-20 left-0 w-full z-10">
                 <div class="hidden md:block md:flex-grow"></div>
                 <button @click="$router.push('/2022ufag')" class="nav-button button-height block">首頁</button>
+                <button @click="$router.push('/2022ufag/about')" class="nav-button button-height block">賽事介紹</button>
                 <button @click="$router.push('/2022ufag/regulation')" class="nav-button button-height block">競賽規程</button>
                 <button class="nav-button button-height block">場地資訊</button>
                 <button class="nav-button button-height block">賽程資訊</button>

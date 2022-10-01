@@ -39,7 +39,7 @@
         </div>
         <hr>
         <div class="py-4 text-left">
-            <p v-if="data.content">{{data.content}}</p>
+            <p v-if="data.content" class="whitespace-pre-wrap break-words">{{data.content}}</p>
             <span v-else>本公告無內文 No Content</span>
         </div>
         <hr>
